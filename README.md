@@ -1,2 +1,2 @@
 # simon-game
-My first web game developed using jQuery
+A simple web game developed with jQuery
